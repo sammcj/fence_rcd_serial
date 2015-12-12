@@ -1,5 +1,7 @@
 ## Fencing agent for rcd_serial devices and pacemaker
 
+[![Issue Count](https://codeclimate.com/github/sammcj/fence_rcd_serial/badges/issue_count.svg)](https://codeclimate.com/github/sammcj/fence_rcd_serial)
+
 A Python rewrite of John Sutton's delayed serial STONITH device for use with Pacemaker clusters.
 
 I've been struggling to find a definition of how the agents must be structured / how they're called etc... i.e. does a template / MVP exist etc... so this is *very much untested at present*
