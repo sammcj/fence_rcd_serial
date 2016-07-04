@@ -2,12 +2,21 @@
 
 [![Issue Count](https://codeclimate.com/github/sammcj/fence_rcd_serial/badges/issue_count.svg)](https://codeclimate.com/github/sammcj/fence_rcd_serial)
 
-A Python rewrite of John Sutton's delayed serial STONITH device for use with Pacemaker clusters.
+### A Linux Cluster Base STONITH provider for use with modern Pacemaker clusters.
 
-I've been struggling to find a definition of how the agents must be structured / how they're called etc... i.e. does a template / MVP exist etc... so this is *very much untested at present*
+This has since been accepted and merged into Fedora's code base and as such will make it's way to RHEL.
 
-- Device: https://smcleod.net/rcd-stonith/
+- Device: https://smcleod.net/rcd-stonith/ (Warning: Contains somewhat outaged images / diagrams now)
+- I have open sourced the CAD circuit design and made this available within this repo under 
+[CAD Design and Schematics](CAD/STONTH_CAD_DESIGN_V3)
 - Related RedHat Bug: https://bugzilla.redhat.com/show_bug.cgi?id=1240868
 
-![](https://smcleod.net/images/san/rcd_serial.jpg)
-![](https://smcleod.net/images/san/optoCircuit.jpg)
+Many thanks to:
+
+- George Hansper (Electrical Design).
+- OurPCB (Board Production).
+- Clusterlabs, Redhat and Fedora Teams.
+- John Sutton for his [original design](http://www.init.hr/dev/cluster/glue/lib/plugins/stonith/rcd_serial.c) that served as inspiration.
+
+![](images/v3_cable.jpg)
+![](images/rcd_serial_v3_diagram.png)

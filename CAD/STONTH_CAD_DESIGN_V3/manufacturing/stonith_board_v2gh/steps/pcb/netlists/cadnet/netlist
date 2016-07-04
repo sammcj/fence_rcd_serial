@@ -1,0 +1,53 @@
+H optimize n
+
+#
+#Nets names
+#
+$0 DTR
+$1 GND
+$2 Net_1
+$3 Net_4
+$4 Net_5
+$5 Net_6
+$6 Net_8
+$7 Net_9
+$8 RTS
+
+#
+#Netlist points
+#
+0 0 0.225 0.0214 T 0.0315 0.063 e e staggered 0 0 0 
+0 0 0.07 0.108 T 0.12 0.07 e e staggered 0 0 0 
+1 0.0177 0.5125 -0.2125 B e e staggered 0 0 0 
+1 0.0177 0.3375 0.2125 B e e staggered 0 0 0 
+1 0 0.07 0.216 T 0.12 0.07 e e staggered 0 0 0 
+1 0 0.6375 -0.0373 D 0.0413 0.0256 e e staggered 0 0 0 
+1 0 0.225 0.2375 T 0.0551 0.0709 e e staggered 0 0 0 
+1 0 0.475 -0.1095 T 0.0551 0.0709 e e staggered 0 0 0 
+1 0 0.775 -0.0625 D 0.0709 0.0709 e e staggered 0 0 0 
+1 0 0.5875 -0.05 T 0.0866 0.0669 e e staggered 0 0 0 
+2 0 0.2414 -0.0125 D 0.0315 0.063 e e staggered 0 0 0 
+2 0 0.2375 0.0875 D 0.0551 0.0709 e e staggered 0 0 0 
+3 0 0.6375 0.0375 D 0.0413 0.0256 e e staggered 0 0 0 
+3 0 0.225 0.1155 T 0.0551 0.0709 e e staggered 0 0 0 
+3 0 0.322 -0.2125 T 0.0551 0.0709 e e staggered 0 0 0 
+3 0 0.775 0.0625 D 0.0709 0.0709 e e staggered 0 0 0 
+3 0.0095 0.375 0.0875 B e e staggered 0 0 0 v 
+4 0 0.225 -0.1125 T 0.0315 0.063 e e staggered 0 0 0 
+4 0 0.2 -0.2125 T 0.0551 0.0709 e e staggered 0 0 0 
+5 0.0217 1.05 0.05 B e e staggered 0 0 0 
+5 0 0.9221 0.05 T 0.0866 0.0669 e e staggered 0 0 0 
+5 0.0177 1.025 0.2125 B e e staggered 0 0 0 
+6 0.0217 1.05 -0.05 B e e staggered 0 0 0 
+6 0 0.9221 -0.05 T 0.0866 0.0669 e e staggered 0 0 0 
+6 0.0177 1.025 -0.2125 B e e staggered 0 0 0 
+7 0.0177 0.4125 -0.2125 B e e staggered 0 0 0 
+7 0.0177 0.4375 0.2125 B e e staggered 0 0 0 
+7 0 0.5469 0.0001 D 0.0413 0.0256 e e staggered 0 0 0 
+7 0 0.2375 0.2095 D 0.0551 0.0709 e e staggered 0 0 0 
+7 0 0.475 0.0125 T 0.0551 0.0709 e e staggered 0 0 0 
+7 0 0.575 0.2125 D 0.0709 0.0709 e e staggered 0 0 0 
+7 0 0.5875 0.05 T 0.0866 0.0669 e e staggered 0 0 0 
+8 0 0.2414 -0.1464 D 0.0315 0.063 e e staggered 0 0 0 
+8 0 0.07 -0.054 D 0.12 0.07 e e staggered 0 0 0 
+
