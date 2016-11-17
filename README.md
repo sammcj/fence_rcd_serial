@@ -9,6 +9,7 @@ This has since been accepted and merged into Fedora's code base and as such will
 - Device: https://smcleod.net/rcd-stonith/ (Warning: Contains somewhat outaged images / diagrams now)
 - I have open sourced the CAD circuit design and made this available within this repo under 
 [CAD Design and Schematics](CAD/STONTH_CAD_DESIGN_V3)
+- [DipTrace CAD Software](http://diptrace.com/download-diptrace/mac-install/)
 - Related RedHat Bug: https://bugzilla.redhat.com/show_bug.cgi?id=1240868
 
 Many thanks to:
