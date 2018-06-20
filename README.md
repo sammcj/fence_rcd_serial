@@ -23,3 +23,4 @@ Many thanks to:
 
 ![](images/v3_cable.jpg)
 ![](images/rcd_serial_v3_diagram.png)
+![](https://github.com/sammcj/fence_rcd_serial/blob/master/images/rcd_serial_cable_diagram_alt.jpg)
