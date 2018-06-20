@@ -2,6 +2,8 @@
 
 [![Issue Count](https://codeclimate.com/github/sammcj/fence_rcd_serial/badges/issue_count.svg)](https://codeclimate.com/github/sammcj/fence_rcd_serial)
 
+As seen on [hackaday.io](https://hackaday.io/project/159156-serial-stonith-power-fencing-device-for-clusters)
+
 ### A Linux Cluster Base STONITH provider for use with modern Pacemaker clusters.
 
 This has since been accepted and merged into Fedora's code base and as such will make it's way to RHEL.
