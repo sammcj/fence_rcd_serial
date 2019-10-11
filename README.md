@@ -16,7 +16,6 @@ This has since been accepted and merged into Fedora's code base and as such will
 
 Many thanks to:
 
-- George Hansper (Electrical Design).
 - OurPCB (Board Production).
 - Clusterlabs, Redhat and Fedora Teams.
 - John Sutton for his [original design](http://www.init.hr/dev/cluster/glue/lib/plugins/stonith/rcd_serial.c) that served as inspiration.
