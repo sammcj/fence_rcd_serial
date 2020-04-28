@@ -8,7 +8,7 @@ As seen on [hackaday.io](https://hackaday.io/project/159156-serial-stonith-power
 
 This has since been accepted and merged into Fedora's code base and as such will make it's way to RHEL.
 
-- Device: https://smcleod.net/rcd-stonith/ (Warning: Contains somewhat outaged images / diagrams now)
+- Device: https://smcleod.net/tech/2016/07/04/update-rcd-stonith-design.html
 - I have open sourced the CAD circuit design and made this available within this repo under 
 [CAD Design and Schematics](CAD/STONTH_CAD_DESIGN_V3)
 - [DipTrace CAD Software](http://diptrace.com/download-diptrace/mac-install/)
